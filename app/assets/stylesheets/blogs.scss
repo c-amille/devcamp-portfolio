@@ -1,0 +1,24 @@
+// Place all the styles related to the Blogs controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+body{
+    background-color:#daf0fb;
+    color:#334032;
+    font-family: "Garamond";
+}
+
+h1 {
+    text-align:center;
+    font-size:60px;
+}
+
+
+.container {
+    width: 400px;
+    margin: 0 auto;
+    text-align:center;
+}
+
+table {
+    margin: 0 auto;
+}
